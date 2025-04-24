@@ -40,3 +40,9 @@ yarn start
 ## 👨‍💻 Projeto
 
 <img src="https://github.com/user-attachments/assets/c9e31e2a-ceff-407b-90e2-eb19ae4fc1c1" width="175" height="375" />
+
+## 📄 Licença
+Este projeto está licenciado sob a licença MIT.
+##
+
+### Desenvolvido com ❤️ por Heli Rufino
